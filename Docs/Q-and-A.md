@@ -275,7 +275,7 @@ The general idea is `multisig` is by far the most secure way to use bitcoin, bot
 
 ##### Addition to point 1: example
 So for example if your node dies or you lose your device you are well covered to recover the 2/3. What I do is add one set of words to other apps on other devices (as this diagram points out), so no one device can fully sign and spend.
-<img src="./Images/FinalSolution.png" alt="Final FN multisig solution" border="0" width="600">
+<img src="./Images/FinalSolutionGW.png" alt="Final FN multisig solution" border="0" width="600">
 <br/> (@Fonta1n3)
 
 <small><i>[Answer provided in FullyNoded Q&A too](https://github.com/Fonta1n3/FullyNoded/blob/master/Docs/Q-and-A.md#question--whats-the-difference-between-gordian-wallet-gw-and-fully-noded-fn)</i></small>
