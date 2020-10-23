@@ -197,6 +197,10 @@ We've done our best to protect the privacy of the Github, Telegram group members
 
 It's a full node linked with a mobile wallet. (@Appelcline)
 
+## What is the purpose of Gordian Wallet, why was it constructed?
+
+GordianServer-macOS strives to provide the community with an easy-to-use "one-click" setup for a full node, complete with a purpose-built remote app for securely connecting to your node over Tor from anywhere in the world, providing you with a powerful suite of tools. (@ChristopherA)
+
 ## Why use the Gordian System?
 
 There are a few advantages to this setup:
@@ -213,6 +217,25 @@ The Gordian server runs on MacOS, though the Bitcoin Standup technology that's a
 The Gordian Wallets runs under iOS. (@Appelcline)
 
 # Q&A section Userinterface
+
+## As soon as I see this interface, what should I do?
+<img src="./Images/StandUpGW.png" alt="Start screen Stand Up after installation, mind you Testnet is selected already in this screendump" border="0" width="600">
+
+Then you've already clicked 'Yes' in this interface!
+<img src="../Images/standup_intro.png" alt="Intro installation" border="0" width="300"><br/>
+After that:<br/>
+1. Select a Bitcoin network (MAIN, TEST, or REGTEST)
+
+<img src="./Images/StandUpGW.png" alt="Testnet is selected and syncing..." border="0" width="300"><br/>
+
+2. Quickconnect
+<img src="../Images/3_standup.png" alt="Quickconnect QR code presented after clicked button" border="0" width="300"><br/>
+
+3. Optionally install Tor V3
+<img src="../Images/6_standup.png" alt="Optionally install Tor V3" border="0" width="300"><br/>
+
+4. Optionally adjust settings
+<img src="../Images/7_standup.png" alt="Optionally adjust settings" border="0" width="300"><br/>
 
 # Q&A section Gordian Server
 
